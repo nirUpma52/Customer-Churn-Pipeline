@@ -302,9 +302,9 @@ Response
 
 ### FastAPI Swagger
 
-```
+
 images/swagger.png
-```
+
 
 ### Streamlit Dashboard
 
