@@ -303,7 +303,7 @@ Response
 ### FastAPI Swagger
 
 ```
-images/swagger.png
+![FastAPI Swagger](images/swagger.png)
 ```
 
 ### Streamlit Dashboard
