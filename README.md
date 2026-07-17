@@ -156,7 +156,7 @@ Churn
 Clone the repository
 
 ```bash
-git clone https://github.com/<YOUR_USERNAME>/Customer-Churn-Pipeline.git
+git clone https://github.com/<nirUpma52>/Customer-Churn-Pipeline.git
 
 cd Customer-Churn-Pipeline
 ```
@@ -303,7 +303,7 @@ Response
 ### FastAPI Swagger
 
 ```
-![FastAPI Swagger](images/swagger.png)
+images/swagger.png
 ```
 
 ### Streamlit Dashboard
